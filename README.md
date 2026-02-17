@@ -8,6 +8,9 @@ Ultimate LoRa APRS Tracker for Heltec V1.2 htit Wireless Tracker, ESP32S3 + SX12
 copy to desktop and unzip the Flash Tool folder, the file settings should remain saved, if you don't have their path and address in the photo.
 FIRST TIME, use ERASE, only then Flash..
 
+if you find it useful, please give it a star and follow, to be up to date with the latest improvements
+Good luck and 73, de yo2ldk !!
+
 
  this is how it look:
 ![tr2](https://github.com/user-attachments/assets/4848c884-dfa1-48fc-bc54-1a91cb13f042)
