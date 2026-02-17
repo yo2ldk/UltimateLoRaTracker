@@ -11,6 +11,10 @@ FIRST TIME, use ERASE, only then Flash..
 if you find it useful, please give it a star and follow, to be up to date with the latest improvements
 Good luck and 73, de yo2ldk !!
 
+L.E. WEB Flasher (which I was forced to do by my friend Jose Melo CT4TX) version for an more easy programming is here:
+
+                          https://yo2ldk.github.io/WEB_FLASHER/
+                          
 
  this is how it look:
 ![tr2](https://github.com/user-attachments/assets/4848c884-dfa1-48fc-bc54-1a91cb13f042)
